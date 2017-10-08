@@ -56,7 +56,7 @@
     <message>
         <location filename="../filechoosewidget.cpp" line="35"/>
         <source>Drag and drop file here</source>
-        <translation>Datei hier her ziehen und loslassen</translation>
+        <translation>Datei hierher ziehen und loslassen</translation>
     </message>
     <message>
         <location filename="../filechoosewidget.cpp" line="62"/>
@@ -232,7 +232,7 @@ All dependencies will also be removed</source>
     <message>
         <location filename="../main.cpp" line="38"/>
         <source>Deepin Package Manager is an application used to help users install and remove local software, supports bulk install.</source>
-        <translation>Deepin Package Manager ist eine Anwendung, die Benutzern beim installieren und entfernen von Softwarepaketen hilft und Installationen mit Stapelverarbeitung unterstützt.</translation>
+        <translation>Deepin Package Manager ist eine Anwendung, die Benutzern beim Installieren und Entfernen von Softwarepaketen hilft und Installationen mit Stapelverarbeitung unterstützt.</translation>
     </message>
 </context>
 </TS>
